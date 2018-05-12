@@ -1,0 +1,32 @@
+_repo: An-anthology-of-German-literature_21053
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomas, Calvin
+    birthdate: 1854
+    deathdate: 1919
+    gutenberg_agent_id: '3046'
+    url: http://www.gutenberg.org/2009/agents/3046
+    wikipedia: http://en.wikipedia.org/wiki/Calvin_Thomas_(linguist)
+description: pt. 1 From the earliest times to the sixteenth century in modern German
+  translations. -- pt. 2 From the reformation to the classics of the eighteenth century.
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2007-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21053'
+  lccn: 09026011
+language:
+- en
+- de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German literature'
+title: An anthology of German literature
+url: http://www.gutenberg.org/ebooks/21053
