@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Calvin_Thomas_(linguist)
 description: pt. 1 From the earliest times to the sixteenth century in modern German
   translations. -- pt. 2 From the reformation to the classics of the eighteenth century.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21053#An-anthology-of-German-literature
 gutenberg_bookshelf: Germany
 gutenberg_issued: '2007-04-13'
 gutenberg_type: Text
